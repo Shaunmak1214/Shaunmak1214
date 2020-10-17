@@ -3,7 +3,7 @@
 ## :boy: I'm 19 :hear_no_evil:
 
 ### - :see_no_evil: Student (Multimedia University Cyberjaya Campus)
-### - :basketball: Baller (Average point guard meh..)
+### - :basketball: Baller (Average point guard :grimacing: meh..)
 ### - :video_game: Gamer (NBA 2k, Rainbow Six, CSGO)
 ### - :computer: Web Developer
 ### - :computer: Software Developer
