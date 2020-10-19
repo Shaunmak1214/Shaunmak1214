@@ -1,5 +1,5 @@
-### Hi there, I'm Mak Yen Wei - aka SHAUN <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+### <p align="center"> Hi there, I'm Mak Yen Wei - aka SHAUN <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </p>
+ 
 ## :boy: I'm 19 :hear_no_evil:
 
 ### - :see_no_evil: Student (Multimedia University Cyberjaya Campus)
