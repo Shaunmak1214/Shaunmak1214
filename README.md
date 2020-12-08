@@ -9,7 +9,6 @@
 ### - :computer: Software Developer
 ### - :heart: Have a great passion on AI, Deep Learning, Machine Learning
 ### - ⚡ Currently learning everything :satisfied:
-## - I like to make things look nice :happy:
 ---
 
 ### Spotify Playing 🎧
