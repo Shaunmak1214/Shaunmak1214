@@ -33,6 +33,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Shaunmak1214/Shaunmak1214/blob/master/images/java.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Shaunmak1214/Shaunmak1214/blob/master/images/jquery.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Shaunmak1214/Shaunmak1214/blob/master/images/ajax.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Shaunmak1214/Shaunmak1214/blob/master/images/c--logo-icon-0.png" />
 <br />
 <br />
 
