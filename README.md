@@ -6,6 +6,7 @@
 ### - :basketball: Baller (Average point guard :grimacing: meh..)
 ### - :video_game: Gamer (NBA 2k, Rainbow Six, CSGO)
 ### - :computer: Full Stack Developer (WAMP, MERN)
+### - :computer: Full Stack Enginneer
 ### - :computer: Software Developer
 ### - :heart: Have a great passion on AI, Deep Learning, Machine Learning
 ### - ⚡ Currently learning everything :satisfied:
