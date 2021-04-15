@@ -6,6 +6,7 @@
 ### - :basketball: Baller (Average point guard :grimacing: meh..)
 ### - :video_game: Gamer (NBA 2k, Rainbow Six, CSGO)
 ### - :computer: Full Stack Developer (WAMP, MERN)
+### - :mobile_phone_off: Mobile App Developer (React Native, Flutter)
 ### - :computer: Freelance Web Developer
 ### - :computer: Full Stack Enginneer
 ### - :robot: Discord Bot Builder
