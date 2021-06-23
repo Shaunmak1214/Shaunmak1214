@@ -5,10 +5,10 @@
 ### - :see_no_evil: Student (Multimedia University Cyberjaya Campus)
 ### - :computer: Full Stack Developer
 ### - :computer: UI/UX Designer
-### - :mobile_phone_off: Mobile App Developer (React Native, Flutter)
+### - :mobile_phone_off: Mobile App Developer
 ### - :computer: Freelance Web Developer
 ### - :computer: Full Stack Enginneer
-### - :robot: Discord Bot Builder (discord.js, discord.js commando)
+### - :robot: Discord Bot Builder
 ### - :heart: Have a great passion on AI, Deep Learning, Machine Learning
 ### - ⚡ Currently learning everything :satisfied:
 ---
