@@ -3,16 +3,27 @@
 ## <p align="center">:boy: I'm 19 :hear_no_evil:</p>
 
 ### - :see_no_evil: Student (Multimedia University Cyberjaya Campus)
-### - :basketball: Baller (Average point guard :grimacing: meh..)
-### - :video_game: Gamer (NBA 2k, Rainbow Six, CSGO)
-### - :computer: Full Stack Developer (WAMP, MERN)
+### - :computer: Full Stack Developer
+### - :computer: UI/UX Designer
 ### - :mobile_phone_off: Mobile App Developer (React Native, Flutter)
 ### - :computer: Freelance Web Developer
 ### - :computer: Full Stack Enginneer
-### - :robot: Discord Bot Builder
+### - :robot: Discord Bot Builder (discord.js, discord.js commando)
 ### - :heart: Have a great passion on AI, Deep Learning, Machine Learning
 ### - ⚡ Currently learning everything :satisfied:
 ---
+
+## Proficiencies
+### - TypeScript, Javascript (React.js, Node.js, React Native)
+### - ORMs (Sequelize, Moongoose)
+### - Databases (Postgresql, MySql, MongoDB)
+### - Cloud (AWS, Google Cloud, Heroku)
+### - UI (CSS3, Bootstrap, Bulma, Ant Design, Chakra UI, Styled Components, StoryBook, Semantic UI, Material UI)
+### - UI/UX (Figma)
+### - Dart (Flutter)
+### - Python (Flask, OpenCV)
+### - PHP, C++ C, JAVA
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
