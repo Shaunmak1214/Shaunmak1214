@@ -14,15 +14,16 @@
 ---
 
 ## Proficiencies
-### - TypeScript, Javascript (React.js, Node.js, React Native)
-### - ORMs (Sequelize, Moongoose)
-### - Databases (Postgresql, MySql, MongoDB)
-### - Cloud (AWS, Google Cloud, Heroku)
-### - UI (CSS3, Bootstrap, Bulma, Ant Design, Chakra UI, Styled Components, StoryBook, Semantic UI, Material UI)
-### - UI/UX (Figma)
-### - Dart (Flutter)
-### - Python (Flask, OpenCV)
-### - PHP, C++ C, JAVA
+#### - TypeScript, Javascript (React.js, Node.js, React Native)
+#### - ORMs (Sequelize, Moongoose)
+#### - Databases (Postgresql, MySql, MongoDB)
+#### - Cloud (AWS, Google Cloud, Heroku)
+#### - UI (CSS3, Bootstrap, Bulma, Ant Design, Chakra UI, Styled Components, StoryBook, Semantic UI, Material UI)
+#### - UI/UX (Figma)
+#### - Dart (Flutter)
+#### - Python (Flask, OpenCV)
+#### - PHP, C++ C, JAVA
+---
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
