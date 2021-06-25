@@ -14,7 +14,7 @@
 ---
 
 ## Proficiencies
-#### - TypeScript, Javascript (React.js, Node.js, React Native)
+#### - #####TypeScript, Javascript (React.js, Node.js, React Native)
 #### - ORMs (Sequelize, Moongoose)
 #### - Databases (Postgresql, MySql, MongoDB)
 #### - Cloud (AWS, Google Cloud, Heroku)
