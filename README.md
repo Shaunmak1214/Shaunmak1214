@@ -2,16 +2,14 @@
  
 ## <p align="center">:boy: I'm 19 :hear_no_evil:</p>
 
-### - :see_no_evil: Student (Multimedia University Cyberjaya Campus)
-### - :computer: Full Stack Developer
+### - :see_no_evil: Data Science Student (MMU Cyberjaya)
+### - :computer: Full Stack Developer/Enginneer
 ### - :computer: UI/UX Designer
 ### - :mobile_phone_off: Mobile App Developer
 ### - :computer: Freelance Web Developer
-### - :computer: Full Stack Enginneer
 ### - :robot: Discord Bot Builder
 ### - :heart: Have a great passion on AI, Deep Learning, Machine Learning
 ### - ⚡ Currently learning everything :satisfied:
----
 
 ## Proficiencies
 #### - TypeScript, Javascript (React.js, Node.js, React Native)
