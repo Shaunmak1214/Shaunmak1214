@@ -14,11 +14,6 @@
 <br>
 <br>
 
----
-
-<br>
-<br>
-
 ## Proficiencies
 #### - TypeScript, Javascript (React.js, Node.js, React Native)
 #### - ORMs (Sequelize, Moongoose)
@@ -30,7 +25,9 @@
 #### - UI/UX (Figma)
 #### - Dart (Flutter)
 #### - PHP, C++ C, JAVA
----
+
+<br>
+<br>
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yenweimak/)
