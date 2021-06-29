@@ -11,7 +11,13 @@
 ### - :heart: Have a great passion on AI, Deep Learning, Machine Learning
 ### - ⚡ Currently learning everything :satisfied:
 
+<br>
+<br>
+
 ---
+
+<br>
+<br>
 
 ## Proficiencies
 #### - TypeScript, Javascript (React.js, Node.js, React Native)
