@@ -15,7 +15,7 @@
 <br>
 
 ## Proficiencies
-#### - TypeScript, Javascript (React.js, Node.js, React Native)
+#### - TypeScript, Javascript (React.js, Node.js, React Native) :white_circle: :white_circle: :white_circle:
 #### - ORMs (Sequelize, Moongoose)
 #### - Python (Flask, OpenCV)
 #### - Web Scraping (Selenium, Beautiful Soup)
