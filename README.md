@@ -15,16 +15,16 @@
 <br>
 
 ## Proficiencies
-#### ⚫ ⚫ ⚫ ⚫ ⚪ TypeScript, Javascript (React.js, Node.js, React Native)
-#### ⚫ ⚫ ⚪ ⚪ ⚪ ORMs (Sequelize, Moongoose)
-#### ⚫ ⚪ ⚪ ⚪ ⚪ Python (Flask, OpenCV)
-#### ⚫ ⚫ ⚫ ⚫ ⚪ Web Scraping (Selenium, Beautiful Soup)
-#### ⚫ ⚫ ⚫ ⚫ ⚪ Databases (Postgresql, MySql, MongoDB)
-#### ⚫ ⚫ ⚪ ⚪ ⚪ DevOps (AWS, Google Cloud, Heroku)
-#### ⚫ ⚫ ⚫ ⚫ ⚫ UI (CSS3, Bootstrap, Bulma, Ant Design, Chakra UI, Styled Components, StoryBook, Semantic UI, Material UI)
-#### ⚫ ⚫ ⚫ ⚫ ⚫ UI/UX (Figma)
-#### ⚫ ⚪ ⚪ ⚪ ⚪ Dart (Flutter)
-#### ⚫ ⚫ ⚫ ⚪ ⚪ PHP, C++ C, JAVA
+#### ⚫ ⚫ ⚫ ⚫ ⚪ - TypeScript, Javascript (React.js, Node.js, React Native)
+#### ⚫ ⚫ ⚪ ⚪ ⚪ - ORMs (Sequelize, Moongoose)
+#### ⚫ ⚪ ⚪ ⚪ ⚪ - Python (Flask, OpenCV)
+#### ⚫ ⚫ ⚫ ⚫ ⚪ - Web Scraping (Selenium, Beautiful Soup)
+#### ⚫ ⚫ ⚫ ⚫ ⚪ - Databases (Postgresql, MySql, MongoDB)
+#### ⚫ ⚫ ⚪ ⚪ ⚪ - DevOps (AWS, Google Cloud, Heroku)
+#### ⚫ ⚫ ⚫ ⚫ ⚫ - UI (CSS3, Bootstrap, Bulma, Ant Design, Chakra UI, Styled Components, StoryBook, Semantic UI, Material UI)
+#### ⚫ ⚫ ⚫ ⚫ ⚫ - UI/UX (Figma)
+#### ⚫ ⚪ ⚪ ⚪ ⚪ - Dart (Flutter)
+#### ⚫ ⚫ ⚫ ⚪ ⚪ - PHP, C++ C, JAVA
 
 <br>
 <br>
