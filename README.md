@@ -20,7 +20,7 @@
 #### ⚫ ⚪ ⚪ ⚪ ⚪ - Python (Flask, OpenCV)
 #### ⚫ ⚫ ⚫ ⚫ ⚪ - Web Scraping (Selenium, Beautiful Soup)
 #### ⚫ ⚫ ⚫ ⚫ ⚪ - Databases (Postgresql, MySql, MongoDB)
-#### ⚫ ⚫ ⚪ ⚪ ⚪ - DevOps (AWS (lambda, ec2), Google Cloud(app engine, gcloud sql), Heroku)
+#### ⚫ ⚫ ⚪ ⚪ ⚪ - DevOps (AWS (lambda, ec2), Google Cloud(app engine, gcloud sql), Digital Ocean (Droplet), Heroku)
 #### ⚫ ⚫ ⚫ ⚫ ⚫ - UI (CSS3, Bootstrap, Bulma, Ant Design, Chakra UI, Styled Components, StoryBook, Semantic UI, Material UI)
 #### ⚫ ⚫ ⚫ ⚫ ⚫ - UI/UX (Figma)
 #### ⚫ ⚪ ⚪ ⚪ ⚪ - Dart (Flutter)
