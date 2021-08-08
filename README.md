@@ -22,7 +22,7 @@
 #### ⚫ ⚫ ⚫ ⚫ ⚪ - Databases (Postgresql, MySql, MongoDB)
 #### ⚫ ⚫ ⚪ ⚪ ⚪ - DevOps (AWS (lambda, ec2), Google Cloud(app engine, gcloud sql), Digital Ocean (Droplet), Heroku)
 #### ⚫ ⚫ ⚫ ⚫ ⚫ - UI/UX (CSS3, Bootstrap, Bulma, Ant Design, Chakra UI, Styled Components, StoryBook, Semantic UI, Material UI)
-#### ⚫ ⚪ ⚪ ⚪ ⚪ - Dart (Flutter)
+#### ⚫ ⚫ ⚪ ⚪ ⚪ - Dart (Flutter)
 #### ⚫ ⚫ ⚫ ⚪ ⚪ - PHP, C++ C, JAVA
 
 <br>
