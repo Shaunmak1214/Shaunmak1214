@@ -16,14 +16,15 @@
 
 ## Proficiencies
 #### ⚫ ⚫ ⚫ ⚫ ⚪ - TypeScript, Javascript (React.js, Node.js, React Native)
-#### ⚫ ⚫ ⚪ ⚪ ⚪ - ORMs (Sequelize, Moongoose)
-#### ⚫ ⚫ ⚪ ⚪ ⚪ - Python (Flask, OpenCV)
 #### ⚫ ⚫ ⚫ ⚫ ⚪ - Web Scraping (Selenium, Beautiful Soup)
 #### ⚫ ⚫ ⚫ ⚫ ⚪ - Databases (Postgresql, MySql, MongoDB)
-#### ⚫ ⚫ ⚪ ⚪ ⚪ - DevOps (AWS (lambda, ec2), Google Cloud(app engine, gcloud sql), Digital Ocean (Droplet), Heroku)
-#### ⚫ ⚫ ⚫ ⚫ ⚫ - UI/UX (CSS3, Bootstrap, Bulma, Ant Design, Chakra UI, Styled Components, StoryBook, Semantic UI, Material UI)
-#### ⚫ ⚫ ⚪ ⚪ ⚪ - Dart (Flutter)
+#### ⚫ ⚫ ⚫ ⚫ ⚪ - UI/UX (CSS3, Bootstrap, Bulma, Ant Design, Chakra UI, Styled Components, StoryBook, Semantic UI, Material UI)
+#### ⚫ ⚫ ⚫ ⚪ ⚪ - Dart (Flutter)
 #### ⚫ ⚫ ⚫ ⚪ ⚪ - PHP, C++ C, JAVA
+#### ⚫ ⚫ ⚪ ⚪ ⚪ - ORMs (Sequelize, Moongoose)
+#### ⚫ ⚫ ⚪ ⚪ ⚪ - Python (Flask, OpenCV)
+#### ⚫ ⚫ ⚪ ⚪ ⚪ - DevOps (AWS (lambda, ec2), Google Cloud(app engine, gcloud sql), Digital Ocean (Droplet), Heroku)
+
 
 <br>
 <br>
