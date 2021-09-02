@@ -3,7 +3,7 @@
 ## <p align="center">:boy: I'm 20 :hear_no_evil:</p>
 
 ### - :see_no_evil: Data Science Student (MMU Cyberjaya)
-### - :computer: Full Stack Developer/Enginneer
+### - :computer: Full Stack Enginneer
 ### - :computer: UI/UX Designer
 ### - :mobile_phone_off: Mobile App Developer
 ### - :computer: Freelance Web Developer
