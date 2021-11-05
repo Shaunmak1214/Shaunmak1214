@@ -24,6 +24,7 @@
 
 <img src="https://res.cloudinary.com/shaun-storage/image/upload/v1636092910/Shaun_s-Proficiency_n6v1ft.png" alt="Shaun's Proficiency" />
 
+<!-- 
 #### ⚫ ⚫ ⚫ ⚫ ⚪ - TypeScript, Javascript (React.js, Node.js, React Native)
 #### ⚫ ⚫ ⚫ ⚫ ⚪ - Web Scraping (Selenium, Beautiful Soup)
 #### ⚫ ⚫ ⚫ ⚫ ⚪ - Databases (Postgresql, MySql, MongoDB)
@@ -33,6 +34,8 @@
 #### ⚫ ⚫ ⚪ ⚪ ⚪ - ORMs (Sequelize, Moongoose)
 #### ⚫ ⚫ ⚪ ⚪ ⚪ - Python (Flask, OpenCV)
 #### ⚫ ⚫ ⚪ ⚪ ⚪ - DevOps (AWS (lambda, ec2), Google Cloud(app engine, gcloud sql), Digital Ocean (Droplet), Heroku)
+
+-->
 
 
 <br>
