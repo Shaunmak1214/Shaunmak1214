@@ -15,8 +15,8 @@
 <br>
 
 ## You might wan't to use ... 
-#### Customeet
-[<img src="https://customeet.vercel.app/pngs/customeet.png" width="25"/>](https://github.com/user/repository/subscription)
+#### <a href="https://chrome.google.com/webstore/detail/customeet/mnhmiianlmpgpmallbgfeklmoenjljbm"> Customeet [<img src="https://customeet.vercel.app/pngs/customeet.png" width="25"/>](https://chrome.google.com/webstore/detail/customeet/mnhmiianlmpgpmallbgfeklmoenjljbm) </a>
+
 
 ## Proficiencies
 
