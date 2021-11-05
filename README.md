@@ -15,6 +15,9 @@
 <br>
 
 ## Proficiencies
+
+<img src="https://res.cloudinary.com/shaun-storage/image/upload/v1636092910/Shaun_s-Proficiency_n6v1ft.png" alt="Shaun's Proficiency" />
+
 #### ⚫ ⚫ ⚫ ⚫ ⚪ - TypeScript, Javascript (React.js, Node.js, React Native)
 #### ⚫ ⚫ ⚫ ⚫ ⚪ - Web Scraping (Selenium, Beautiful Soup)
 #### ⚫ ⚫ ⚫ ⚫ ⚪ - Databases (Postgresql, MySql, MongoDB)
