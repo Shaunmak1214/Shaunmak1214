@@ -1,3 +1,5 @@
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 # <p align="center"> Hi there, I'm Mak Yen Wei - aka SHAUN <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </p>
  
 ## <p align="center">:boy: I'm 20 :hear_no_evil:</p>
@@ -15,7 +17,8 @@
 <br>
 
 ## You might wan't to use ... 
-#### Customeet <button>qwe</button>
+#### Customeet
+<a class="github-button" href="https://github.com/ntkme/github-buttons/archive/HEAD.zip" data-icon="octicon-download" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
 ## Proficiencies
 
